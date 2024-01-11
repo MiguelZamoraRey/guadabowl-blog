@@ -1,0 +1,25 @@
+---
+import '../styles/global.css';
+import MainLayout from '../layouts/MainLayout.astro';
+import NewPrettyCard from '../components/NewPrettyCard.astro';
+const allPosts = await Astro.glob('../pages/posts/*.md');
+allPosts.sort(
+  (a, b) =>
+    Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate)
+);
+const pageTitle = 'Noticias';
+---
+
+<MainLayout pageTitle={pageTitle}>
+  {
+    allPosts.map((post) => (
+      <NewPrettyCard
+        url={post.url}
+        title={post.frontmatter.title}
+        image={post.frontmatter.image}
+        pubDate={post.frontmatter.pubDate}
+        description={post.frontmatter.description}
+      />
+    ))
+  }
+</MainLayout>

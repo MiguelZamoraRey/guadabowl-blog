@@ -1,0 +1,42 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+const { pageTitle } = Astro.props;
+---
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/football-ball.ico" />
+    <meta name="viewport" content="width=device-width" />
+    <meta
+      name="description"
+      content="Guadabowl es una web fan dedicada a gestionar las ligas, torneos, y el juego organizado en general de blood bowl en la ciudad de Guadalajara España."
+    />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="language" content="es" />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <Header />
+    <h1 class="pageTitle">{pageTitle}</h1>
+    <div class="container">
+      <slot />
+    </div>
+    <Footer />
+    <script>
+      import '../scripts/menu.js';
+    </script>
+  </body>
+</html>
+
+<style>
+  .pageTitle {
+    padding: 1rem;
+  }
+  .container {
+    padding: 1rem;
+    min-height: 55.5vh;
+  }
+</style>

@@ -1,0 +1,114 @@
+  html {
+    background-image: url("/assets/images/grass-backgroung-scaled.webp");
+   /* background-color: #19336c;*/
+    background-size: cover;
+    font-family: sans-serif;
+  }
+  
+  body {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 80ch;
+    line-height: 1.5;
+    color:#fff;
+    background-color: #242424cc;
+  }
+
+  @font-face {
+		font-family: "Nuffle", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+      src:url("/fonts/Nuffle.woff")format("woff"),
+        url("/fonts/Nuffle.woff2")format("woff2"),
+        url("/fonts/Nuffle.ttf")format("truetype"),
+        url("/fonts/Nuffle.svg")format("svg");
+	}
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  h1 {
+    margin: 1rem 0;
+    font-size: 2.5rem;
+    font-family: 'Nuffle', sans-serif;
+  }
+
+/* estilos de la barra de navegación*/
+
+.hamburger-main{
+  display: flex;
+}
+.hamburger {
+    padding: 1.5em;
+    padding-right: 20px;
+    cursor: pointer;
+}
+
+.hamburger .line {
+    display: block;
+    width: 40px;
+    height: 5px;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+
+.nav-links {
+    width: 100%;
+    top: 5rem;
+    left: 48px;
+    color: #fff;
+    font-family: 'Nuffle', sans-serif;
+    display: none;
+    margin: 0;
+  }
+  
+  .nav-links a {
+    display: block;
+    text-align: center;
+    padding: 10px 0;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:#fff;
+  }
+  
+  .nav-links a:hover,
+  .nav-links a:focus {
+    background-color: #ff9776;
+  }
+  
+  .expanded {
+    display: unset;
+  }
+
+  .pageTitle{
+    background-color: #19336c;
+    color: #eeb700;
+  }
+  
+  @media screen and (min-width: 636px) {
+    body{
+      max-width: 80%;
+    }
+
+    .pageTitle{
+      text-align: center;
+    }
+
+    .nav-links {
+      margin-left: 5em;
+      display: block;
+      position: static;
+      width: auto;
+      background: none;
+    }
+  
+    .nav-links a {
+      display: inline-block;
+      padding: 15px 20px;
+    }
+
+    .hamburger-main {
+      display: none;
+    }
+  }

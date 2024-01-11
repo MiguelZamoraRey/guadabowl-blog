@@ -1,0 +1,125 @@
+---
+import '../styles/global.css';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const pageTitle = 'Sobre nosotros';
+const identity = {
+  firstName: 'Miguel',
+  country: 'España',
+  occupation: 'Frikazo y programador',
+  hobbies: ['Bloodbowl', "Programaci'on", 'unmatched', 'MTG'],
+};
+
+const skills = [
+  'HTML',
+  'CSS',
+  'JavaScript',
+  'React',
+  'Astro',
+  'Redacción de documentos',
+];
+
+const happy = true;
+const finished = false;
+const goal = 3;
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <p>
+    Guadabowl es una web fan dedicada a gestionar las ligas torneos y el juego
+    organizado en general de blood bowl en la ciudad de Guadalajara España.
+  </p>
+
+  <p>
+    Esencialmente somos Ainhur (gestor de liga, programador y organizador), Lady
+    Toxiclake (ilustradora), y colabora con nosotros Júpiter juegos Gudalajara.
+  </p>
+
+  <section class="colaborators">
+    <section class="profile">
+      <h2>Ainhur</h2>
+      <img src="/assets/images/profile.webp" />
+      <div class="links">
+        <a href="https://www.mzrdeveloper.com">Portfolio profesional</a>
+        <a href="https://www.instagram.com/ainhur_mzr/">Instagram</a>
+      </div>
+    </section>
+    <section class="profile">
+      <h2>Lady Toxiclake</h2>
+      <img src="/assets/images/ladyToxiclake.webp" />
+      <div class="links">
+        <a href="https://www.instagram.com/las_minis_de_gyoza/"
+          >Instagram miniaturas</a
+        >
+        <a href="https://www.instagram.com/lady_toxiclake/"
+          >Instagram ilustración</a
+        >
+      </div>
+    </section>
+    <section class="profile">
+      <h2>Júpiter juegos Gudalajara</h2>
+      <img src="/assets/images/JupiterGuada.webp" />
+      <div class="links">
+        <a href="https://www.instagram.com/jupiterguadalajara/">Instagram</a>
+      </div>
+    </section>
+  </section>
+</BaseLayout>
+
+<style>
+  .colaborators {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+
+    .profile {
+      width: 100%;
+      display: flex;
+      padding: 1em;
+      background-color: #19336c;
+      border-radius: 0.5em;
+      flex-direction: column;
+      gap: 1em;
+
+      h2 {
+        font-family: 'Nuffle', sans-serif;
+        color: #eeb700;
+      }
+
+      img {
+        max-width: 100%;
+        height: fit-content;
+        border-radius: 1em;
+      }
+      .links {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        text-align: center;
+
+        a {
+          margin: 0.25em;
+          border: dotted 1px transparent;
+          border-radius: 0.5em;
+          padding: 0.5em 1em;
+          font-size: 1.15em;
+          background-color: #c80000;
+          color: #fff;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+  @media screen and (min-width: 636px) {
+    .colaborators {
+      flex-direction: row;
+      .profile {
+        width: 33%;
+        img {
+          width: 100%;
+          height: fit-content;
+        }
+      }
+    }
+  }
+</style>
