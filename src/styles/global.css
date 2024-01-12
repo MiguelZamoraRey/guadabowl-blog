@@ -13,7 +13,7 @@
     color:#fff;
     background-color: #242424cc;
   }
-
+/*
   @font-face {
 		font-family: "Nuffle", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
       src:url("/fonts/Nuffle.woff")format("woff"),
@@ -21,6 +21,17 @@
         url("/fonts/Nuffle.ttf")format("truetype"),
         url("/fonts/Nuffle.svg")format("svg");
 	}
+  */
+
+  @font-face {
+    font-family: "Nuffle";
+    src: url("/fonts/Nuffle.eot");
+    src: url("/fonts/Nuffle.eot?#iefix")format("embedded-opentype"),
+    url("/fonts/Nuffle.woff2")format("woff2"),
+    url("/fonts/Nuffle.woff")format("woff"),
+    url("/fonts/Nuffle.ttf")format("truetype"),
+    url("/fonts/Nuffle.svg#Nuffle")format("svg");
+}
   
   * {
     box-sizing: border-box;
