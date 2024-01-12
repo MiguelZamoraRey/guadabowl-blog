@@ -1,0 +1,36 @@
+{
+    "short_name": "Guadabowl",
+    "name": "Guadabowl, pagina fan de Blood bowl en Guadalajara, España",
+    "icons": [
+      {
+        "src": "/assets/images/football-ball.ico",
+        "type": "image/ico",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/assets/images/football-ball.ico",
+        "type": "image/ico",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/images/football-ball.ico",
+        "type": "image/ico",
+        "sizes": "512x512"
+      }
+    ],
+    "id": "/",
+    "start_url": "/",
+    "background_color": "#242424cc",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#c80000",
+    "description": "Guadabowl es una web fan dedicada a gestionar las ligas, torneos, y el juego organizado en general de blood bowl en la ciudad de Guadalajara España.",
+    "screenshots": [
+      {
+        "src": "/assets/images/screenshoot1.webp",
+        "type": "image/webp",
+        "sizes": "540x720",
+        "form_factor": "narrow"
+      }
+    ]
+  }
