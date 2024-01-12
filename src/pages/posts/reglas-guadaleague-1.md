@@ -24,8 +24,10 @@ La inscripción cubre los siguientes gastos:
 
 - Coste del gestor TourPlay (3.95€ hasta 10 jugadores + 0.39€ mes por jugador activo + comisario) _El total por los 6 meses serán 35.1€ para los 14 participantes_
 - Soporte en caso de cualquier problema por parte de la organización
-- Una sorpresa para cada participante con la inscripción 👀 (_Por motivos logísticos se entregará la sorpresa en febrero_)
 - Premios
+- Un dado personalizado con el logotipo de la liga para cada participante con la inscripción 🎲
+
+![Dado personalizado de regalo](/assets/images/Dice.webp)
 
 ## 🐉 Miniaturas:
 
