@@ -81,11 +81,14 @@
     font-weight: bold;
     text-transform: uppercase;
     color:#fff;
+    transition: 0.5s;
   }
   
   .nav-links a:hover,
   .nav-links a:focus {
-    background-color: #ff9776;
+    border-radius: 0.5em;
+      background-color: #ff9776;
+      scale: 1.1;
   }
   
   .expanded {
