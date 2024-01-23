@@ -12,7 +12,9 @@ tags: ['Bloodbowl', 'Guadaleague', 'Jornada']
 
 ## Clasificaciones
 
-Ha sido un intenso comienzo de la liga, que nos deja sorpresas, la mayor de todas que encabece la liga un equipo de **goblins**. Nuffle parece que ha estado de fiesta con **Gorko** y **Morko** estas semanas.
+Ha sido un intenso comienzo de la liga, que nos deja sorpresas, la mayor de todas que encabece la liga un equipo de **goblins**. Nuffle parece que ha estado de fiesta con **Gorko** y **Morko** estas semanas. Su entrenador **Dani** nos dedica unas palabras:
+
+_Primera jornada muy, muy loca, muchas lesiones, muchas subidas de nivel, sigo sin entender cómo nos hemos llevado el partido pero seguiremos haciendo lo que sea que estemos haciendo bien para no luchar y no ceder el primer puesto_
 
 ![Clasificación de la primera jornada](/assets/images/clasificacion-1.webp)
 
