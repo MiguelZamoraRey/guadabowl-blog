@@ -136,6 +136,8 @@ Voy a empezar por los Líneas del equipo, ya que en principio son las miniaturas
 - Vallejo Game Color - Rojo Sanguina
 - Vallejo Game Color - Naranja Tostado
 
+### 6.2 Técnica
+
 **Pintar con Contrast y Xpress:**
 
 Este tipo de pinturas son un punto medio entre las tintas y las pinturas normales. El médium que llevan está diseñado para acumular pigmento en los recesos de la miniatura pero dejando tras de sí una cierta cantidad en el resto del área. Son básicamente el santo grial de la pintura rápida y resultona.
