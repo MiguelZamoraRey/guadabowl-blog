@@ -216,7 +216,7 @@ Llega de nuevo la hora del pincel seco ya que al rojo le falta vida. Y como suel
 
 ![Turial pintura 2](/assets/images/tutorial-pintura/12.webp)
 
-Ahora ya tengo un rojo más consistente, pero todavía le falta vida, así que por último y para rematar, le voy a dar otra capa de pincel seco pero esta vez con Vallejo Game Color - Naranja Tostado y apuntando sólo a las zonas más prominentes y expuestas:
+Ahora ya tengo un rojo más consistente, pero todavía le falta vida, así que por último y para rematar, le voy a dar otra capa de pincel seco pero esta vez con **Vallejo Game Color - Naranja Tostado** y apuntando sólo a las zonas más prominentes y expuestas:
 
 ![Turial pintura 2](/assets/images/tutorial-pintura/13.webp)
 
