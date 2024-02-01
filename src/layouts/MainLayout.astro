@@ -44,7 +44,7 @@ const { pageTitle } = Astro.props;
 
     <!--Tritter meta tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta property="twitter:domain" content="guadabowl.com" />
+    <meta property="twitter:domain" content="https://www.guadabowl.com" />
     <meta property="twitter:url" content="https://www.guadabowl.com/" />
     <meta
       name="twitter:image"
@@ -56,9 +56,9 @@ const { pageTitle } = Astro.props;
   <body>
     <Header />
     <h1 class="pageTitle">{pageTitle}</h1>
-    <div class="container">
+    <main class="container">
       <slot />
-    </div>
+    </main>
     <Footer />
     <script>
       import '../scripts/menu.js';

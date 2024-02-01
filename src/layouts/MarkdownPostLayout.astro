@@ -6,9 +6,14 @@ const { frontmatter } = Astro.props;
 <BaseLayout pageTitle={frontmatter.title}>
   <p>Publicado el {frontmatter.pubDate.slice(0, 10)}</p>
   <p>Escrito por {frontmatter.author}</p>
-  <img src={frontmatter.image.url} width="100%" alt={frontmatter.image.alt} />
-  <slot />
-  <div class="tags">
+  <figure>
+    <img src={frontmatter.image.url} width="100%" alt={frontmatter.image.alt} />
+  </figure>
+  <article>
+    <slot />
+  </article>
+
+  <aside class="tags">
     {
       frontmatter.tags.map((tag) => (
         <p class="tag">
@@ -16,7 +21,7 @@ const { frontmatter } = Astro.props;
         </p>
       ))
     }
-  </div>
+  </aside>
   <style>
     a {
       color: red;
