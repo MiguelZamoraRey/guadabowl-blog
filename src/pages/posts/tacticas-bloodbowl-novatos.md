@@ -2,12 +2,12 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Tácticas de Blood Bowl para novatos'
 pubDate: 2024-02-02
-description: 'Funes nos trae una traducción de un artículo sobre tácticas de Blood bowl'
+description: 'Funes nos trae una adaptación de un artículo sobre tácticas de Blood bowl'
 author: 'Funes'
 image:
   url: '/assets/images/articulo_funes.webp'
   alt: 'Meme sobre tácticas de bloodbowl donde vemos a dos personajes de friends explicando las jugadas'
-tags: ['Táctica', 'Tutorial', 'Estratégia', 'Funes']
+tags: ['Táctica', 'Tutorial', 'Estrategia', 'Funes']
 ---
 
 ## EL METAJUEGO
@@ -37,7 +37,7 @@ Si fallas una tirada, es un cambio de turno por lo tanto si fallas menos tiradas
 Lo primero es mover a los jugadores desmarcados, ese linea sin defensa que puede presionar al rival, ese corredor a la espera de pase o ese canijo para apoyar al defensa para placar al rival...
 Si al mover no hay zonas de defensa, no hay tiradas que fallar.
 
-### Bloquear pensando en la probabilidad.
+### Placar pensando en la probabilidad.
 
 Empieza siempre por los jugadores que plaquen a tres dados, después los placajes a dos dados y por ultimo los de uno.
 Recuerda los posibilidades de conseguir el resultado que quieres en el dado. Si tu jugador no tiene placar es 1/3 pero con la habilidad bajamos a 1/6, a igualdad de dados antes utiliza a tus jugadores con placar. La tirada de dos dados sin placar tiene mejores probabilidades que una tirada de un dado con placar.
