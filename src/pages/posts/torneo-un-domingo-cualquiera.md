@@ -24,7 +24,7 @@ Podéis encontrar detalles [en esta entrada del foro](https://bloodbowlforo.org/
 
 A priori puede parecer que es sencillo crear un rooster con nuestras habilidades fetiche e ir tan tranquilo, pero nada más lejos de la realidad, al entrenar un día con Jorge y aprender de su sabiduría bloodbowlera me di cuenta de que hay que tener en cuenta todas las posibilidades que puede tener también tu rival, y que equipos que pueden parecer complicados de montar con el dinero inicial brillan mucho al aumentar ese dinero y poner las habilidades clave, así como tener en cuenta a jugadores estrella para los stunties.
 
-A pesar de aquel día jugando con Jorge y charlando sobre que íbamos a llevar, ahora me doy cuenta de que me hubiese venido genial jugar más y probar diferentes equipos. **En nuestra liga tenemos bastante variedad pero como veréis después hay equipos muy diferentes a los que como no estemos acostumbrados nos pueden desmontar la estrategia a la que estamos acostumbrados en un periquete**.
+A pesar de aquel día jugando con Jorge y charlando sobre que íbamos a llevar, ahora me doy cuenta de que me hubiese venido genial jugar más y probar diferentes equipos. **En nuestra liga tenemos bastante variedad pero como veréis después hay equipos muy diferentes a los que como no estemos acostumbrados nos pueden desmontar la estrategia en un periquete**.
 
 Me decidí por llevar lo que ya conocía, bastante novedad iba a ser todo como para llevar algo a lo que no estuviese acostumbrado, así que cree la mejor versión de los Hijos de Dagón y crucé los dedos por no haber creado alguna cagada monumental.
 
