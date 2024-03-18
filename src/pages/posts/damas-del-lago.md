@@ -7,12 +7,12 @@ author: 'Ainhur'
 image:
   url: '/assets/images/damas-del-lago/damas-del-lago1.webp'
   alt: 'Foto del equipo de amazonas'
-tags: ['Bloodbowl', 'Amazonas', 'Guadaleague']
+tags: ['Bloodbowl', 'Amazons', 'Amazonas', 'Guadaleague']
 ---
 
 Este equipo se ha ofrecido para una serie de artículos en los que iremos repasando a los diferentes participantes de la liga, si quieres ver el tuyo por aquí no dudes en mandárnoslo 😉
 
-_Para que podáis apreciar el enorme amor y la profesionalidad de vuerto fiel reportero este mes me tocó zarpar hacia unas islas habitadas por nada más y nada menos que terribles guerreras entrenadas en el arte de la guerra._
+_Para que podáis apreciar el enorme amor y la profesionalidad de vuestro fiel reportero este mes me tocó zarpar hacia unas islas habitadas por nada más y nada menos que terribles guerreras entrenadas en el arte de la guerra._
 
 ![Dos blitzer](/assets/images/damas-del-lago/damas-del-lago2.webp)
 
@@ -22,11 +22,13 @@ _Al desembarcar en lo que parecía un puerto improvisado mi fiel guardaespaldas 
 
 _La impoluta y minimalista arquitectura de la ciudad y su completo orden eran de una belleza indescriptible, por eso fué tan llamativo el "estadio": Un sencillo campo de tierra delimitado por tan solo unos tocones unidos por cuerdas._
 
-_Allí Esther, su entrenadora m,e comentaba que el bloodbowl no era un deporte muy popular entre las amazonas de aquella isla, y esta era la primera vez que decidían formar un equipo y salir a competir contra otras... subespecies._
+_Allí Esther, su entrenadora me comentaba que el bloodbowl no era un deporte muy popular entre las amazonas de aquella isla, y esta era la primera vez que decidían formar un equipo y salir a competir contra otras... subespecies._
 
 ![La lanzadora](/assets/images/damas-del-lago/damas-del-lago4.webp)
 
 _La conversación se vió interrumpida cuando Loki, que estaba practicando contra unos esclavos encadenados lanzó un grito mientras cargaba, acabando con el esclavo en el suelo mientras uno de los sencillos tocones adornaba ahora su pecho._
+
+_La penetrante carcajada que siguió al impune asesinato me acompañará, me temo, durante muchas noches..._
 
 _Escribo estas líneas mientras abandono la isla con Arquímedes remando lo más deprisa posible_
 
