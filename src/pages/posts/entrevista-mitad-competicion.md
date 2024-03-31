@@ -5,7 +5,7 @@ pubDate: 2024-03-30
 description: 'Entrevistamos a Fran, entrenador de los Red Falcons'
 author: 'Ainhur'
 image:
-  url: '/assets/images/redFalcons.webp'
+  url: '/assets/images/RedFalconsShields.webp'
   alt: 'Clasificación'
 tags: ['Bloodbowl', 'Guadaleague', 'Jornada', 'Entrevistas', 'Red falcons']
 ---
