@@ -7,7 +7,12 @@ const { frontmatter } = Astro.props;
   <p>Publicado el {frontmatter.pubDate.slice(0, 10)}</p>
   <p>Escrito por {frontmatter.author}</p>
   <figure>
-    <img src={frontmatter.image.url} width="100%" alt={frontmatter.image.alt} />
+    <img
+      src={frontmatter.image.url}
+      width="100%"
+      alt={frontmatter.image.alt}
+      transition:name={frontmatter.title}
+    />
   </figure>
   <article>
     <slot />

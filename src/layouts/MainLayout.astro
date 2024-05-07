@@ -3,6 +3,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
 const { pageTitle } = Astro.props;
+import { ViewTransitions } from 'astro:transitions';
 ---
 
 <html lang="es">
@@ -46,6 +47,7 @@ const { pageTitle } = Astro.props;
     <meta name="twitter:image" content="/assets/images/Guadabowl_Color.webp" />
 
     <title>{pageTitle}</title>
+    <ViewTransitions />
   </head>
   <body>
     <Header />
@@ -57,20 +59,18 @@ const { pageTitle } = Astro.props;
     <script>
       import '../scripts/menu.js';
     </script>
-  </body>
+  </body><style>
+    .pageTitle {
+      padding: 1rem;
+    }
+    .container {
+      min-height: 55.5vh;
+      display: grid;
+      gap: 1em;
+      justify-content: center;
+      max-width: 100%;
+      min-height: 65vh;
+      grid-template-columns: repeat(auto-fill, 20em);
+    }
+  </style>
 </html>
-
-<style>
-  .pageTitle {
-    padding: 1rem;
-  }
-  .container {
-    min-height: 55.5vh;
-    display: grid;
-    gap: 1em;
-    justify-content: center;
-    max-width: 100%;
-    min-height: 65vh;
-    grid-template-columns: repeat(auto-fill, 20em);
-  }
-</style>
