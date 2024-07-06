@@ -10,7 +10,7 @@ image:
 tags: ['Bloodbowl', 'Guadaleague', 'Final']
 ---
 
-Todo lo bueno se acaba y hoy la primera Guadaleague ha llegado a su fin. Sabemos que vamos un poco tarde, y que se nos ha echado el verano encima complicándonos muchas de las cosas que queriamos hacer, pero no os hagamos esperar más y veamos los premios:
+Todo lo bueno se acaba y hoy la primera Guadaleague ha llegado a su fin. Sabemos que vamos un poco tarde, y que se nos ha echado el verano encima complicandonos muchas de las cosas que queríamos hacer, pero no os hagamos esperar más y veamos los premios:
 
 ![Premios primera Guadaleague](/assets/images/fin-de-la-primera-liga/Clasificacion.webp)
 
