@@ -31,7 +31,7 @@ La inscripción cubre los siguientes gastos:
 - 💵 Coste del gestor TourPlay (3.95€ hasta 10 jugadores + 0.39€ mes por jugador activo + comisario)
 - 💵 Soporte en caso de cualquier problema por parte de la organización
 - 💵 Premios
-- 💵 Dados de seis caras personalizado con el logotipo de la liga para cada participante con la inscripción 🎲
+- 💵 Dados de seis caras personalizados con el logotipo de la liga para cada participante con la inscripción 🎲
 
 ![Dado personalizado de regalo](/assets/images/Guadaleague2/Guadabowl2.webp)
 
@@ -41,11 +41,13 @@ Se pueden usar miniaturas de cualquier marca siempre que: **Representen de maner
 
 Las miniaturas han de estar **correctamente numeradas** siguiendo la ficha de equipo, con cualquier discordancia recomendamos el uso de post-it en la peana o similar.
 
+Se recomienda **encarecidamente** seguir un código de colores para peanas y/o gomas, aros o lo que sea para denotar bien las posiciones o habilidades de cada jugador.
+
 ## 📅 Jornadas y reporte de partidos:
 
 Este año el formato será distinto al anterior: Será **una ronda clasificatoria round robin** seguida por **playoffs eliminatorios**. Por lo que **se anunciarán todas las jornadas de golpe**, lo que os facilitará jugar más de una seguida y adelantar partidos.
 
-Las jornadas serán **cada dos semanas** aunque como dijimos antes podréis adelantar, se debe acordar con el rival donde quedar y disputar el partido, **el lugar oficial para jugar es Jupiter Guadalara**, si uno de los jugadores no puede jugar por cualquier motivo de fuerza mayor rogamos que se comunique cuanto antes para buscar una solución, velando por la disputa del maximo numero de partidos. No jugar una jornada sin un motivo justificable supone una concesión del partido.
+Las jornadas serán **cada dos semanas** aunque como dijimos antes podréis adelantar, se debe acordar con el rival donde quedar y disputar el partido, **el lugar oficial para jugar es Jupiter Guadalara**, si uno de los jugadores no puede jugar por cualquier motivo de fuerza mayor rogamos que se comunique cuanto antes para buscar una solución, velando por la disputa del maximo numero de partidos. No jugar una jornada sin un motivo justificable supone una concesión del partido. Recordamos a los participantes que, si bien esto es un juego y estamos para pasarlo bien, el otro jugador también quiere pasarlo bien y dedica su tiempo y su esfuerzo a estar ahí, se ruega puntualidad en los partidos.
 
 **TourPlay** da soporte para ir anotando TODA la información durante el partido y **recomendamos encarecidamente hacerlo con la aplicación abierta**. Cualquier error en los reportes debe ser notificicado a la organización. Los partidos han de estar reportados ANTES de la finalización de la jornada.
 
@@ -58,6 +60,8 @@ Al finalizar la liga se hara la entrega de premios.
 Si uno de los jugadores quiere jugar con tiempo **se jugará con tiempo**, tourplay facilita todo el control.
 
 El lugar oficial para jugar es **Júpiter juegos Guadalaja**, en caso de no ponerse deacuerdo en el lugar siempre tendrá prioridad este último.
+
+Antes de empezar es bueno recordar las reglas especiales y aspectos como qué pasa si los dados no caen en el tablero o si caen borrachos, si se puede ir para atrás, que se entiende generalmente que se pueden rehacer jugadas si ambos se aclaran pero que cuando hay tiradas hechas ya no se puede ir para atrás.
 
 **Retener el balón o cometer faltas esta permitido tal y como contempla el reglamento**.
 
@@ -81,9 +85,9 @@ El ganador se llevará a casa la **COPA DE CAMPEÓN DE LA 2ª GuadaLeague**, una
 
 El equipo que tenga el jugador mas asesino, que no sea el ganador de la liga, se llevará a casa la **COPA ASESINO DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa.
 
-El equipo que tenga el jugador que haya marcado mas touchdown, que no sea el ganador de la liga, se llevar'a a casa la **COPA PICHIHCI DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa.
+El equipo que tenga el jugador que haya marcado mas touchdown, que no sea el ganador de la liga, se llevar'a a casa la **COPA PICHICHI DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa.
 
-El que quede en la parte más baja de la liga habiendo jugado TODOS los partidos se llevará a casa la **CUCHARA DE MADERA DE LA 1ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa. Y la inscripción a la segunda GuadaLegue será gratuita (En el caso de no realizarse no se podrá dar este premio)
+El que quede en la parte más baja de la liga habiendo jugado TODOS los partidos se llevará a casa la **CUCHARA DE MADERA DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa. Y la inscripción a la tercera GuadaLegue será gratuita (En el caso de no realizarse no se podrá dar este premio)
 
 ## 🤝 Normas de conducta generales:
 
