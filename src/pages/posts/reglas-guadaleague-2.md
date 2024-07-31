@@ -12,7 +12,7 @@ tags: ['Bloodbowl', 'Reglas', 'GuadaLeague', 'Liga']
 
 ## 🏈 Reglamentos:
 
-Los reglamentos válidos serán el oficial con las faqs aparecidas en el documento de la MezquitaBowl descargable [haciendo click aquí](https://nufflezone.com/noticias-blood-bowl/compendio-blood-bowl/)
+Los reglamentos válidos serán el oficial con las faqs oficiales (de inmediata aplicación) normalmente podeís usar las publicaciones de la MezquitaBowl descargables [haciendo click aquí](https://nufflezone.com/noticias-blood-bowl/compendio-blood-bowl/)
 
 El gestor que se usará para la liga será [TourPlay](https://tourplay.net/), al comenzar la liga se pasará a los participantes la invitación, mas información [aqui](https://tourplay.net/es/blood-bowl/guadaleague-1/news).
 
