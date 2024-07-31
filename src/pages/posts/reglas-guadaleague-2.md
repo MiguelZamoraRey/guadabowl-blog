@@ -77,7 +77,7 @@ Para la elección de los equipos se hará en el siguiente orden:
 
 ![Trofeos GuadaLeague 1](/assets/images/Trofeos.webp)
 
-El ganador se llevará a casa la **COPA DE CAMPEÓN DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa.
+El ganador se llevará a casa la **COPA DE CAMPEÓN DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa. Y su equipo para la tercera Guadalegue lo eligirá el comite.
 
 El equipo que tenga el jugador mas asesino, que no sea el ganador de la liga, se llevará a casa la **COPA ASESINO DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa.
 
