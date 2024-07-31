@@ -18,7 +18,7 @@ El gestor que se usará para la liga será [TourPlay](https://tourplay.net/), al
 
 ## 📜 Inscripción:
 
-El importe de la inscripción serán **XX€ que deberán abonarse en Júpiter Guadalajara ANTES del día uno de Octubre**, se debe facilitar un correo donde se notificará al jugador la información para poder aprobar su equipo en la plataforma.
+El importe de la inscripción serán **15€ (APROXIMACIÓN HASTA DENTRO DE UNOS DIAS) que deberán abonarse en Júpiter Guadalajara ANTES del día uno de Octubre**, se debe facilitar un correo donde se notificará al jugador la información para poder aprobar su equipo en la plataforma.
 
 Al inscribirse, que se debe hacer en físico en Jupiter Guadalajara y avisar en el grupo, hay que facilitar los siguientes datos:
 
