@@ -57,7 +57,7 @@ Al finalizar la liga se hara la entrega de premios.
 
 ## ☠️ Durante el partido:
 
-Si uno de los jugadores quiere jugar con tiempo **se jugará con tiempo**, tourplay facilita todo el control.
+Hemos pensado que dado el carácter más relajado de Liga no vamos a poner limitación de tiempo a priori. Sin embargo, la duración normal debería oscilar **entre dos y tres horas**. Todos tenemos vidas que atender y es lo que normalmente la gente destina al partido. Pasado ese margen creemos conveniente que los jugadores aclaren si quieren usar un temporizador igual para los dos, o nada si a ambos les parece bien jugar el tiempo que haga falta.
 
 El lugar oficial para jugar es **Júpiter juegos Guadalaja**, en caso de no ponerse deacuerdo en el lugar siempre tendrá prioridad este último.
 
