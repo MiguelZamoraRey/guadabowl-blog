@@ -95,7 +95,7 @@ Cualquier comentario o queja debe ser redirigido a la organización, y esta **se
 
 ## 🏁 Comisionado corrupto
 
-Este año hemos aprendido del primero y me van a ayudar otras tres personas a llevar esta liga y los eventos que se sucedan dentro. Estas personas son: **Funes**, **Jorge**, y **Toni**.
+Este año hemos aprendido del primero y me van a ayudar otras tres personas a llevar esta liga y los eventos que se sucedan dentro. Estas personas son: **Jorge**, y **Toni**.
 
 Me han ayudado enormemente a preparar esta segunda liga y corregir fallos que hemos tenido en la anterior y espero que les trateis con el mismo cariño y respeto con el que me tratais a mi.
 
