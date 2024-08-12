@@ -94,7 +94,7 @@ El que quede en la parte más baja de la liga habiendo jugado TODOS los partidos
 
 Cualquier comentario o queja debe ser redirigido a la organización, y esta **se reserva el derecho de expulsar a cualquier jugador** que realice comentarios hirientes, faltas de respeto, o fuera del comportamiento educado y correcto que se da por supuesto en cualquier persona adulta.
 
-## 🏁 Comisionado corrupto
+## 🏁 Comisariado corrupto
 
 Este año hemos aprendido del primero y me van a ayudar otras tres personas a llevar esta liga y los eventos que se sucedan dentro. Estas personas son: **Jorge**, y **Toni**.
 
