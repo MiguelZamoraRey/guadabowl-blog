@@ -24,6 +24,7 @@ Al inscribirse, que se debe hacer en físico en Jupiter Guadalajara y avisar en 
 
 - 📜 Nombre
 - 📜 Nombre en Tourplay
+- 📜 Que equipo planteas usar (lo mismo te toca otro, lo explicamos mas abajo)
 - 📜 Novato/Veterano (Consideramos novatos a los que no hayan jugado ninguna liga previamente)
 
 La inscripción cubre los siguientes gastos:
