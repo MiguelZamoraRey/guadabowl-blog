@@ -5,7 +5,7 @@ pubDate: 2023-12-31
 description: 'Conoce a estos veteranos Enanos del Caos'
 author: 'Ainhur'
 image:
-  url: '/assets/images/IvanMineros.webp'
+  url: '/assets/images/other/IvanMineros.webp'
   alt: 'Linares Mineros CD'
 tags: ['Bloodbowl', 'Equipos', 'Enanos', 'Caos', 'Enanos del caos']
 ---

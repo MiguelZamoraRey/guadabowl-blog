@@ -5,7 +5,7 @@ pubDate: 2023-11-29
 description: 'El primer evento de la Guadabowl se realizará este viernes dia 1 de Diciembre'
 author: 'Ainhur'
 image:
-  url: '/assets/images/CartelAprendeJugar.webp'
+  url: '/assets/images/other/CartelAprendeJugar.webp'
   alt: 'Cartel aprende a juguar'
 tags: ['Bloodbowl', 'Guadaleague']
 ---

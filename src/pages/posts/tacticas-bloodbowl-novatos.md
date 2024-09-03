@@ -5,7 +5,7 @@ pubDate: 2024-02-02
 description: 'Funes nos trae una adaptación de un artículo sobre tácticas de Blood bowl'
 author: 'Funes'
 image:
-  url: '/assets/images/articulo_funes.webp'
+  url: '/assets/images/other/articulo_funes.webp'
   alt: 'Meme sobre tácticas de bloodbowl donde vemos a dos personajes de friends explicando las jugadas'
 tags: ['Táctica', 'Tutorial', 'Estrategia', 'Funes']
 ---

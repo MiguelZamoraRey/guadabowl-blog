@@ -5,7 +5,7 @@ pubDate: 2024-01-05
 description: 'Conoce a este equipo humano venido de las estrellas'
 author: 'Ainhur'
 image:
-  url: '/assets/images/RedFalcons.webp'
+  url: '/assets/images/other/RedFalcons.webp'
   alt: 'Cartel liga'
 tags: ['Bloodbowl', 'Equipos', 'Humanos']
 ---

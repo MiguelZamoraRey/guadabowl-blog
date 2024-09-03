@@ -5,7 +5,7 @@ pubDate: 2023-11-24
 description: 'Parece que hay bastantes equipos como para empezar una competición en esta zona del mundo.'
 author: 'Ainhur'
 image:
-  url: '/assets/images/Jim-Bob_Blood_Bowl.webp'
+  url: '/assets/images/other/Jim-Bob_Blood_Bowl.webp'
   alt: 'Bob y Jim'
 tags: ['Bloodbowl', 'Guadaleague']
 ---

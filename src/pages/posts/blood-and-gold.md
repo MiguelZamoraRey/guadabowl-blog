@@ -5,7 +5,7 @@ pubDate: 2024-01-12
 description: 'Conoce a este equipo que ha conseguido una segunda oportunidad'
 author: 'Ainhur'
 image:
-  url: '/assets/images/BloodAndGold5.webp'
+  url: '/assets/images/other/BloodAndGold5.webp'
   alt: 'Foto del equipo blood and gold'
 tags: ['Bloodbowl', 'Guadaleague', 'Shambling', 'Undead']
 ---

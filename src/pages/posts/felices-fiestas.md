@@ -5,7 +5,7 @@ pubDate: 2023-12-21
 description: 'Desde la organización queremos felicitaros las fiestas'
 author: 'Ainhur'
 image:
-  url: '/assets/images/Chrismas_gob.webp'
+  url: '/assets/images/other/Chrismas_gob.webp'
   alt: 'Goblin navideño'
 tags: ['Bloodbowl', 'Navidad']
 ---

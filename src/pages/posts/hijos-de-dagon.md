@@ -5,7 +5,7 @@ pubDate: 2024-01-18
 description: 'Conoce a esta secta reconvertida a equipo'
 author: 'Ainhur'
 image:
-  url: '/assets/images/hijos-de-dagon.webp'
+  url: '/assets/images/other/hijos-de-dagon.webp'
   alt: 'Foto del equipo Hijos de Dagón'
 tags: ['Bloodbowl', 'Guadaleague', 'Chaos', 'Renegades']
 ---

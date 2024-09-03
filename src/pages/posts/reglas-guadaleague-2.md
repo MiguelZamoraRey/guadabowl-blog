@@ -80,7 +80,7 @@ Para la elección de los equipos se hará en el siguiente orden:
 
 ## 🏆 Premios:
 
-![Trofeos GuadaLeague 1](/assets/images/Trofeos.webp)
+![Trofeos GuadaLeague 1](/assets/images/other/Trofeos.webp)
 
 El ganador se llevará a casa la **COPA DE CAMPEÓN DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa. Y su equipo para la tercera Guadalegue lo eligirá el comite.
 

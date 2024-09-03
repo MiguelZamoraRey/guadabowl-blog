@@ -5,7 +5,7 @@ pubDate: 2024-01-11
 description: '¡El momento que deseábamos acaba de llegar!'
 author: 'Ainhur'
 image:
-  url: '/assets/images/comienzalaliga.webp'
+  url: '/assets/images/other/comienzalaliga.webp'
   alt: 'Jornada 1'
 tags: ['Bloodbowl', 'Guadaleague']
 ---

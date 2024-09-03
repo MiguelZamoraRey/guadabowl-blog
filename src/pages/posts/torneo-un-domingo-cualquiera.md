@@ -5,7 +5,7 @@ pubDate: 2024-03-05
 description: 'Os contamos cómo fue nuestra experiencia en el torneo'
 author: 'Ainhur'
 image:
-  url: '/assets/images/torneo2.webp'
+  url: '/assets/images/other/torneo2.webp'
   alt: 'Una foto de un equipo nigromántico'
 tags: ['Bloodbowl', 'Torneo', 'Un domingo cualquiera']
 ---
@@ -42,7 +42,7 @@ La primera ronda ya estaba sorteada, y a Toni sin ir más lejos le tocó contra 
 
 ## Primera ronda
 
-![Equipo de albertoZ](/assets/images/albartoZ.webp)
+![Equipo de albertoZ](/assets/images/other/albartoZ.webp)
 
 Empezamos a las 10:45 y empezaron las toñas, el equipo de inframundo empezaba atacando y nada más empezar ya envió a mi querido Troll al banquillo herido. No le costó demasiado ir avanzando a través del campo, pisando cabezas si hacía falta con los molestos snotlings y marcando sin dificultad en el turno ocho.
 
@@ -54,7 +54,7 @@ Durante todo el partido el tono fué divertido y jocoso, y albertoZ y yo nos re�
 
 ## Segunda ronda
 
-![Equipo de HachaBlanca](/assets/images/Hachablanca1.webp)
+![Equipo de HachaBlanca](/assets/images/other/Hachablanca1.webp)
 
 Justo antes de la segunda ronda me dijeron que hablase con Hachablanca, un veterano que lleva toda la NAF en España, me dieron mis daditos y mi moneda, y me fuí a ver contra quien me había tocado, sorpresa, contra Hachablanca.
 
@@ -72,7 +72,7 @@ Jorge y yo ya habíamos acabado pero Toni estaba todavía cruzando mamporros y d
 
 ## Tercera ronda
 
-![Equipo de Pablo](/assets/images/torneo2.webp)
+![Equipo de Pablo](/assets/images/other/torneo2.webp)
 
 Pablo no sólo es grande en altura, y en potencia barbil, sino que también tiene una paciencia de santo y creo que fué el partido en el que mejor me lo pasé, era la primera vez que jugaba contra un equipo nigromántico y me pilló muy poco entrenado contra los lobos, los golems y su maldito mantenerse firme, pero sobretodo me pilló despistadísimo contra los fantasmas **¿DE DÓNDE HA SALIDO ESE BICHO?**, echarse a un lado, fuerza tres, placar, apariencia asquerosa… y les habían puesto defensa.
 
@@ -84,7 +84,7 @@ Si no nos daba el tiempo consideré justo conceder el empate, pero **ya os digo 
 
 ## Cuarta ronda
 
-![Equipo de Javins](/assets/images/torneo1.webp)
+![Equipo de Javins](/assets/images/other/torneo1.webp)
 
 En este momento el cansancio ya me estaba haciendo mella, no había dormido en mi casa, habíamos madrugado, y para alguien que está habituado a jugar un partido en tres horitas cada dos semanas las zonas de defensa ya eran un amasijo confuso de casillas, el último partido fué contra Jevins que llevaba otro equipo nigromántico.
 

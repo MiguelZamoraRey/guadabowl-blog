@@ -5,7 +5,7 @@ pubDate: 2023-12-12
 description: 'Ya estan abiertas las inscripciones para la primera Guadaleague'
 author: 'Ainhur'
 image:
-  url: '/assets/images/cartelLiga.webp'
+  url: '/assets/images/other/cartelLiga.webp'
   alt: 'Cartel liga'
 tags: ['Bloodbowl', 'Guadaleague']
 ---

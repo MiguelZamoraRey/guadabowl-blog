@@ -5,7 +5,7 @@ pubDate: 2023-12-31
 description: 'Conoce a este equipo de goblins'
 author: 'Ainhur'
 image:
-  url: '/assets/images/deportivoGobbo.webp'
+  url: '/assets/images/other/deportivoGobbo.webp'
   alt: 'Deportivo Gobbo'
 tags: ['Bloodbowl', 'Equipos', 'Goblins']
 ---

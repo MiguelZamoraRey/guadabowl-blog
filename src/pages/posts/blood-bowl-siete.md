@@ -5,7 +5,7 @@ pubDate: 2024-05-11
 description: 'De donde te crees que salen tus jugadores'
 author: 'Ainhur'
 image:
-  url: '/assets/images/BB7portada.webp'
+  url: '/assets/images/other/BB7portada.webp'
   alt: 'Clasificación'
 tags: ['Bloodbowl', 'Bloodbowl Siete', 'Tutoriales', 'Torneo']
 ---
@@ -14,7 +14,7 @@ Como sabréis dentro de poco tenemos el partido **All Stars** de fin de la liga,
 
 # El campo de juego
 
-![Campo de bloodbowl siete](/assets/images/CampoBB7.webp)
+![Campo de bloodbowl siete](/assets/images/other/CampoBB7.webp)
 
 Lo primero en lo que nos fijamos en esta versión más chiquita del campo es que no hay línea de placaje central, sino dos zonas de líneas de placaje separadas por una zona central despejada. Lo siguiente llamativo es su tamaño: siete casillas desde la zona de anotación hasta la línea de placaje y seis casillas de zona central, así como sus once casillas de anchura.
 
@@ -37,7 +37,7 @@ Como podéis ver cambia mucho el juego cuando las segundas oportunidades brillar
 
 # El despliegue
 
-![Campo de bloodbowl siete](/assets/images/BB7Despliegue.webp)
+![Campo de bloodbowl siete](/assets/images/other/BB7Despliegue.webp)
 
 Exactamente igual que en el bloodbowl tradicional pero con las siguientes excepciones:
 

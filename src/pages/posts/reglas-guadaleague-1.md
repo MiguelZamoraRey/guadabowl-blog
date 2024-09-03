@@ -5,7 +5,7 @@ pubDate: 2023-12-07
 description: 'Reglas de la primera GuadaLeague'
 author: 'Ainhur'
 image:
-  url: '/assets/images/Guadabowl_Color.webp'
+  url: '/assets/images/other/Guadabowl_Color.webp'
   alt: 'GuadaLeague 1'
 tags: ['Bloodbowl', 'Reglas', 'GuadaLeague', 'Liga']
 ---
@@ -27,7 +27,7 @@ La inscripción cubre los siguientes gastos:
 - Premios
 - Un dado personalizado con el logotipo de la liga para cada participante con la inscripción 🎲
 
-![Dado personalizado de regalo](/assets/images/Dice.webp)
+![Dado personalizado de regalo](/assets/images/other/Dice.webp)
 
 ## 🐉 Miniaturas:
 
@@ -63,7 +63,7 @@ La liga NO ES RESURRECTION, por lo que las lesiones y muertes son permanentes.
 
 ## 🏆 Premios:
 
-![Trofeos GuadaLeague 1](/assets/images/Trofeos.webp)
+![Trofeos GuadaLeague 1](/assets/images/other/Trofeos.webp)
 
 El ganador se llevará a casa la **COPA DE CAMPEÓN DE LA 1ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa.
 
