@@ -7,8 +7,32 @@
     Nos puedes encontrar tambien en: <a
       href={`https://www.instagram.com/guadabowl`}>Instagram</a
     > o mandarnos un email a <a href="mailto:guadabowl@gmail.com"
-      >guadabowl@gmail.com</a>
+      >guadabowl@gmail.com</a
+    >
   </p>
+  <div id="email-text" class="hidden">guadabowl@gmail.com</div>
+  <button id="copy-btn" class="button-copy">
+    <svg
+      width="24px"
+      height="24px"
+      stroke-width="1.5"
+      viewBox="0 0 24 24"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      color="#eeb700"
+      ><path
+        d="M19.4 20H9.6C9.26863 20 9 19.7314 9 19.4V9.6C9 9.26863 9.26863 9 9.6 9H19.4C19.7314 9 20 9.26863 20 9.6V19.4C20 19.7314 19.7314 20 19.4 20Z"
+        stroke="#eeb700"
+        stroke-width="1.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"></path><path
+        d="M15 9V4.6C15 4.26863 14.7314 4 14.4 4H4.6C4.26863 4 4 4.26863 4 4.6V14.4C4 14.7314 4.26863 15 4.6 15H9"
+        stroke="#eeb700"
+        stroke-width="1.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"></path></svg
+    ></button
+  >
 </footer>
 
 <style>
@@ -29,4 +53,36 @@
     text-decoration: none;
     font-weight: bold;
   }
+
+  .hidden {
+    display: none;
+  }
+
+  .button-copy {
+    border-radius: 99px;
+    height: 3em;
+    width: 3em;
+    cursor: pointer;
+    margin-top: 0.5rem;
+    background-color: #19336c;
+    border: none;
+    color: #eeb700;
+  }
 </style>
+
+<script>
+  const textElement = document.getElementById('email-text');
+  const copyBtn = document.getElementById('copy-btn');
+  function copyText() {
+    const text = textElement.textContent;
+    navigator.clipboard
+      .writeText(text)
+      .then(() => {
+        console.log('Text copied to clipboard!');
+      })
+      .catch((error) => {
+        console.error('Error copying text:', error);
+      });
+  }
+  copyBtn.addEventListener('click', copyText);
+</script>

@@ -97,10 +97,15 @@ Bueno, gracias a todos por llegar hasta aquí, espero que os hayais pegado unas 
       width:100%
     }
     @media screen and (min-width: 636px) {
-      img{
+      img {
         width:50%;
         margin-left:25%;
       }
+
+      img.big {
+        width:100%;
+      }
+
       h2,h3 {
         padding:0em 5em 0em 5em;
       }
@@ -113,6 +118,10 @@ Bueno, gracias a todos por llegar hasta aquí, espero que os hayais pegado unas 
       }
       p {
         padding:0em 5em 0em 5em;
+      }
+      p {
+        max-width: 90%;
+        margin-left: 5%;
       }
     }
 </style>
