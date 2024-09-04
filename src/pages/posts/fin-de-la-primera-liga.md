@@ -39,6 +39,17 @@ Quería daros las gracias a todos: **Fran**, **Jorge**, **Toni**, **Pablo**, **J
 Nada más que deciros a todos, **GRACIAS** y espero poder veros **LA PRÓXIMA LIGA**
 
 <style>
+     table {
+      display:block;
+      max-width:600px;
+      overflow-x:auto;
+    }
+    td,th {
+      border: 1px solid #fff;
+    }
+    table,td {
+      padding: 0.5em;
+    }
     a {
       color: red;
       text-decoration: none;
@@ -47,10 +58,19 @@ Nada más que deciros a todos, **GRACIAS** y espero poder veros **LA PRÓXIMA LI
       width:100%
     }
     @media screen and (min-width: 636px) {
-      img{
+      table {
+        max-width:100%;
+        overflow-x:auto
+      }
+      img {
         width:50%;
         margin-left:25%;
       }
+
+      img.big {
+        width:100%;
+      }
+
       h2,h3 {
         padding:0em 5em 0em 5em;
       }
@@ -63,6 +83,10 @@ Nada más que deciros a todos, **GRACIAS** y espero poder veros **LA PRÓXIMA LI
       }
       p {
         padding:0em 5em 0em 5em;
+      }
+      p {
+        max-width: 90%;
+        margin-left: 5%;
       }
     }
 </style>

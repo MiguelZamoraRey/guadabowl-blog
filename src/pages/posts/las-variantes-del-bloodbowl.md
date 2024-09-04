@@ -43,6 +43,17 @@ Cómo podéis ver es una variante **más desenfadada y perfecta para partidos de
 Actualmente disponemos de una nueva edición de este juego con su caja básica (que incluye dos equipos, cofres y teletransportadores en 3D, el reglamento, y las losetas para crear campos) y una expansión (más reglas, más losetas, y otros dos equipos).
 
 <style>
+     table {
+      display:block;
+      max-width:600px;
+      overflow-x:auto;
+    }
+    td,th {
+      border: 1px solid #fff;
+    }
+    table,td {
+      padding: 0.5em;
+    }
     a {
       color: red;
       text-decoration: none;
@@ -51,10 +62,19 @@ Actualmente disponemos de una nueva edición de este juego con su caja básica (
       width:100%
     }
     @media screen and (min-width: 636px) {
-      img{
+      table {
+        max-width:100%;
+        overflow-x:auto
+      }
+      img {
         width:50%;
         margin-left:25%;
       }
+
+      img.big {
+        width:100%;
+      }
+
       h2,h3 {
         padding:0em 5em 0em 5em;
       }
@@ -67,6 +87,10 @@ Actualmente disponemos de una nueva edición de este juego con su caja básica (
       }
       p {
         padding:0em 5em 0em 5em;
+      }
+      p {
+        max-width: 90%;
+        margin-left: 5%;
       }
     }
 </style>

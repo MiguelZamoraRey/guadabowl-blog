@@ -76,6 +76,17 @@ El que quede en la parte más baja de la liga habiendo jugado TODOS los partidos
 Cualquier comentario o queja debe ser redirigido a la organización, y esta **se reserva el derecho de expulsar a cualquier jugador** que realice comentarios hirientes, faltas de respeto, o fuera del comportamiento educado y correcto que se da por supuesto en cualquier persona adulta.
 
 <style>
+     table {
+      display:block;
+      max-width:600px;
+      overflow-x:auto;
+    }
+    td,th {
+      border: 1px solid #fff;
+    }
+    table,td {
+      padding: 0.5em;
+    }
     a {
       color: red;
       text-decoration: none;
@@ -84,15 +95,35 @@ Cualquier comentario o queja debe ser redirigido a la organización, y esta **se
       width:100%
     }
     @media screen and (min-width: 636px) {
-      img{
+      table {
+        max-width:100%;
+        overflow-x:auto
+      }
+      img {
         width:50%;
         margin-left:25%;
       }
-      p,h2,ul {
+
+      img.big {
+        width:100%;
+      }
+
+      h2,h3 {
         padding:0em 5em 0em 5em;
+      }
+      ul,li{
+        margin-left: 3em;
+        list-style:none;
       }
       h1 {
         text-align: center;
+      }
+      p {
+        padding:0em 5em 0em 5em;
+      }
+      p {
+        max-width: 90%;
+        margin-left: 5%;
       }
     }
 </style>

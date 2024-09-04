@@ -103,6 +103,17 @@ El ambiente, a pesar de ser un torneo de un solo día fué genial, y en mi caso 
 Nos vemos pronto con otro artículo, un abrazo a todos, y que Nuffle os sonría.
 
 <style>
+     table {
+      display:block;
+      max-width:600px;
+      overflow-x:auto;
+    }
+    td,th {
+      border: 1px solid #fff;
+    }
+    table,td {
+      padding: 0.5em;
+    }
     a {
       color: red;
       text-decoration: none;
@@ -111,10 +122,19 @@ Nos vemos pronto con otro artículo, un abrazo a todos, y que Nuffle os sonría.
       width:100%
     }
     @media screen and (min-width: 636px) {
-      img{
+      table {
+        max-width:100%;
+        overflow-x:auto
+      }
+      img {
         width:50%;
         margin-left:25%;
       }
+
+      img.big {
+        width:100%;
+      }
+
       h2,h3 {
         padding:0em 5em 0em 5em;
       }
@@ -127,6 +147,10 @@ Nos vemos pronto con otro artículo, un abrazo a todos, y que Nuffle os sonría.
       }
       p {
         padding:0em 5em 0em 5em;
+      }
+      p {
+        max-width: 90%;
+        margin-left: 5%;
       }
     }
 </style>

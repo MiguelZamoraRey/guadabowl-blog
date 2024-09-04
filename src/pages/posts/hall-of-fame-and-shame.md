@@ -89,6 +89,17 @@ Qué decir de nuestro campeón.. Fran y sus Red Falcons se hicieron con el títu
 Bueno, gracias a todos por llegar hasta aquí, espero que os hayais pegado unas risas (y alguna lagrimilla del recuerdo de tiempos felices y divertidos) y nos vemos por los campos de la GuadaLeague II!
 
 <style>
+     table {
+      display:block;
+      max-width:600px;
+      overflow-x:auto;
+    }
+    td,th {
+      border: 1px solid #fff;
+    }
+    table,td {
+      padding: 0.5em;
+    }
     a {
       color: red;
       text-decoration: none;
@@ -97,6 +108,10 @@ Bueno, gracias a todos por llegar hasta aquí, espero que os hayais pegado unas 
       width:100%
     }
     @media screen and (min-width: 636px) {
+      table {
+        max-width:100%;
+        overflow-x:auto
+      }
       img {
         width:50%;
         margin-left:25%;

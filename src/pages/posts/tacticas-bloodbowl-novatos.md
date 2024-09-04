@@ -109,6 +109,17 @@ Es un juego y la diversión es lo que prima. Que NUFFLE os guie en los partidos 
 Puedes consultar el artículo original [aqui](https://fumbbl.com/help:The+Taoch%21+of+Blood+Bowl%3A+A+Condensed+Guide+for+Newbies)
 
 <style>
+     table {
+      display:block;
+      max-width:600px;
+      overflow-x:auto;
+    }
+    td,th {
+      border: 1px solid #fff;
+    }
+    table,td {
+      padding: 0.5em;
+    }
     a {
       color: red;
       text-decoration: none;
@@ -117,10 +128,19 @@ Puedes consultar el artículo original [aqui](https://fumbbl.com/help:The+Taoch%
       width:100%
     }
     @media screen and (min-width: 636px) {
-      img{
+      table {
+        max-width:100%;
+        overflow-x:auto
+      }
+      img {
         width:50%;
         margin-left:25%;
       }
+
+      img.big {
+        width:100%;
+      }
+
       h2,h3 {
         padding:0em 5em 0em 5em;
       }
@@ -133,6 +153,10 @@ Puedes consultar el artículo original [aqui](https://fumbbl.com/help:The+Taoch%
       }
       p {
         padding:0em 5em 0em 5em;
+      }
+      p {
+        max-width: 90%;
+        margin-left: 5%;
       }
     }
 </style>

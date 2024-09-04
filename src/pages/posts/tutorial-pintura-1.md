@@ -227,6 +227,17 @@ Hasta aquí el primer tochazo, ¡nos vemos con los Corredores!
 PD- Acepto críticas constructivas, croquetas y cheques al portador.
 
 <style>
+     table {
+      display:block;
+      max-width:600px;
+      overflow-x:auto;
+    }
+    td,th {
+      border: 1px solid #fff;
+    }
+    table,td {
+      padding: 0.5em;
+    }
     a {
       color: red;
       text-decoration: none;
@@ -235,21 +246,35 @@ PD- Acepto críticas constructivas, croquetas y cheques al portador.
       width:100%
     }
     @media screen and (min-width: 636px) {
-      img{
+      table {
+        max-width:100%;
+        overflow-x:auto
+      }
+      img {
         width:50%;
         margin-left:25%;
       }
-      p,h2 {
+
+      img.big {
+        width:100%;
+      }
+
+      h2,h3 {
         padding:0em 5em 0em 5em;
       }
       ul,li{
-        margin-left: 2em
+        margin-left: 3em;
+        list-style:none;
       }
       h1 {
         text-align: center;
       }
-      h3 {
-        margin-left: 6em
+      p {
+        padding:0em 5em 0em 5em;
+      }
+      p {
+        max-width: 90%;
+        margin-left: 5%;
       }
     }
 </style>

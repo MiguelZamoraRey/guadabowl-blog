@@ -101,6 +101,17 @@ Este año hemos aprendido del primero y me van a ayudar otras tres personas a ll
 Me han ayudado enormemente a preparar esta segunda liga y corregir fallos que hemos tenido en la anterior y espero que les trateis con el mismo cariño y respeto con el que me tratais a mi.
 
 <style>
+     table {
+      display:block;
+      max-width:600px;
+      overflow-x:auto;
+    }
+    td,th {
+      border: 1px solid #fff;
+    }
+    table,td {
+      padding: 0.5em;
+    }
     a {
       color: red;
       text-decoration: none;
@@ -109,10 +120,19 @@ Me han ayudado enormemente a preparar esta segunda liga y corregir fallos que he
       width:100%
     }
     @media screen and (min-width: 636px) {
-      img{
+      table {
+        max-width:100%;
+        overflow-x:auto
+      }
+      img {
         width:50%;
         margin-left:25%;
       }
+
+      img.big {
+        width:100%;
+      }
+
       h2,h3 {
         padding:0em 5em 0em 5em;
       }
@@ -125,6 +145,10 @@ Me han ayudado enormemente a preparar esta segunda liga y corregir fallos que he
       }
       p {
         padding:0em 5em 0em 5em;
+      }
+      p {
+        max-width: 90%;
+        margin-left: 5%;
       }
     }
 </style>

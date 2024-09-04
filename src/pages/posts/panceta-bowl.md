@@ -85,6 +85,17 @@ Fué un día que no se puede describir de otra manera que no sea CO-JO-NU-DO, no
 Sé que ha pasado un tiempo bastante grande desde la última publicación, pero por problemas logísticos y una mudanza de estadio no he podido actualizar antes la web. Os prometo que tengo en mente varias cosas, y artículos y que iréis sabiendo más a menudo de nosotros.
 
 <style>
+     table {
+      display:block;
+      max-width:600px;
+      overflow-x:auto;
+    }
+    td,th {
+      border: 1px solid #fff;
+    }
+    table,td {
+      padding: 0.5em;
+    }
     a {
       color: red;
       text-decoration: none;
@@ -93,15 +104,35 @@ Sé que ha pasado un tiempo bastante grande desde la última publicación, pero 
       width:100%
     }
     @media screen and (min-width: 636px) {
-      img{
+      table {
+        max-width:100%;
+        overflow-x:auto
+      }
+      img {
         width:50%;
         margin-left:25%;
       }
-      p,h2,ul,li {
+
+      img.big {
+        width:100%;
+      }
+
+      h2,h3 {
         padding:0em 5em 0em 5em;
+      }
+      ul,li{
+        margin-left: 3em;
+        list-style:none;
       }
       h1 {
         text-align: center;
+      }
+      p {
+        padding:0em 5em 0em 5em;
+      }
+      p {
+        max-width: 90%;
+        margin-left: 5%;
       }
     }
 </style>
