@@ -34,7 +34,7 @@ La inscripción cubre los siguientes gastos:
 - 💵 Premios
 - 💵 Dados de seis caras personalizados con el logotipo de la liga para cada participante con la inscripción 🎲
 
-![Dado personalizado de regalo](/assets/images/Guadaleague2/Guadabowl2.webp)
+![Dados personalizados de regalo](/assets/images/Guadaleague2/Guadabowl2_Dices.webp)
 
 ## 🐉 Miniaturas:
 
