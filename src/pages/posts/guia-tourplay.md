@@ -20,9 +20,25 @@ Para hacerlo es tan sencillo como ir a **Tourplay** > **Guadaleague 1** > **Part
 
 ![Fijar la fecha del partido](/assets/images/tutorial-tourplay/Tuto1.webp)
 
+## Antes de empezar
+
+Cuando esté todo listo pulsad el botón COMENZAR, **tanto tú como tu rival**. Con ello Tuorplay hará automáticamente las tiradas de tiempo, hinchas, etc.
+
+En ese momento tendréis que seleccionar incentivos, acordaos de que el que tenga mayor valoración lo hará primero. Tras ello se os revelarán los **objetivos secretos**.
+
+Los objetivos secretos de un entrenador sólo serán visibles por el propio entrenador (estarán ocultos), hasta que decida revelarlos.
+
+![Objetivos secretos](/assets/images/tutorial-tourplay/objetivos-secretos.webp)
+
+Durante el transcurso del partido los objetivos secretos podrán ser consultados o marcados como completados en cualquier momento por el entrenador. Esto puede hacerse a través del botón Objetivos Secretos.
+
+Una vez completado uno o varios objetivos secretos, el entrenador podrá revelarlo inmediatamente o esperar hasta el post-partido para revelarlos en conjunto. Para revelar inmediatamente algún objetivo secreto, el entrenador deberá pulsar el botón de Objetivos secretos dentro del reporte de partido y seleccionar los objetivos secretos completados a revelar.
+
+![Revelar objetivos secretos](/assets/images/tutorial-tourplay/revelar.webp)
+
 ## Durante el partido
 
-Cuando esté todo listo pulsad el botón COMENZAR, **tanto tú como tu rival**. Con ello Tuorplay hará automáticamente las tiradas de tiempo, hinchas, etc. Por lo que solo te queda saber quien va a empezar (tirad una moneda o dos d6), el que gane elige si quiere empezar atacando o defendiendo, colocad vuestros posicionales y el jugador que ataque debe pulsar en el botón iniciar turno.
+Por lo que solo te queda saber quien va a empezar (tirad una moneda o dos d6), el que gane elige si quiere empezar atacando o defendiendo, colocad vuestros posicionales y el jugador que ataque debe pulsar en el botón iniciar turno.
 
 A partir de aquí simplemente id jugando como haríais normalmente exceptuando si teneis que hacer algun reporte, para ello veréis un botón flotante en la parte inferior derecha en el que al hacer click se os desplegará un menú con las opciones:
 
@@ -46,7 +62,7 @@ Al finalizar la primera parte debe ser el jugador al que le toque atacar ahora q
 
 ## Finalizar el partido
 
-Al finalizar el partido **ambos jugadores** deben hacer click en la opción de **finalizar el partido**
+Al finalizar el partido **ambos jugadores** deben hacer click en la opción de **finalizar el partido**. ESTO ES IMPORTANTE, ya que si no lo marcáis el reporte no se sube y nos toca a nosotros meter el acta a mano.
 
 ## Posibles problemas
 
@@ -75,6 +91,14 @@ Esperamos que os sirva como guía a los que nunca hayáis usado el gestor, y con
     img{
       width:100%
     }
+    .full-w-center-content{
+      width:100%;
+      display:flex;
+      justify-content:center;
+    }
+    audio {
+      width:90%
+    }
     @media screen and (min-width: 636px) {
       table {
         max-width:100%;
@@ -92,6 +116,7 @@ Esperamos que os sirva como guía a los que nunca hayáis usado el gestor, y con
       h2,h3 {
         padding:0em 5em 0em 5em;
       }
+      
       ul,li{
         margin-left: 3em;
         list-style:none;
@@ -105,6 +130,9 @@ Esperamos que os sirva como guía a los que nunca hayáis usado el gestor, y con
       p {
         max-width: 90%;
         margin-left: 5%;
+      }
+      audio {
+        width:70%
       }
     }
 </style>

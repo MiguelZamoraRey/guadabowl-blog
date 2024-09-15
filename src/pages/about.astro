@@ -37,6 +37,26 @@ const goal = 3;
     Gudalajara, y Fanath.
   </p>
 
+  <h1 class="center-title">Encuentranos en varios canales</h1>
+
+  <section class="colaborators-two">
+    <section class="profile">
+      <h2>Instagram</h2>
+      <img src="/assets/images/brands/insta.webp" />
+      <div class="links">
+        <a href="https://www.instagram.com/guadabowl/">Link</a>
+      </div>
+    </section>
+
+    <section class="profile">
+      <h2>Youtube</h2>
+      <img src="/assets/images/brands/youtu.webp" />
+      <div class="links">
+        <a href="https://www.youtube.com/@GuadaBowlTV">Link</a>
+      </div>
+    </section>
+  </section>
+
   <h1 class="center-title">Comisionado</h1>
 
   <section class="colaborators">
@@ -99,6 +119,50 @@ const goal = 3;
   .center-title {
     text-align: center;
   }
+
+  .colaborators-two {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+
+    .profile {
+      width: 100%;
+      display: flex;
+      padding: 1em;
+      background-color: #19336c;
+      border-radius: 0.5em;
+      flex-direction: column;
+      gap: 1em;
+
+      h2 {
+        font-family: 'Nuffle', sans-serif;
+        color: #eeb700;
+      }
+
+      img {
+        max-width: 100%;
+        height: fit-content;
+        border-radius: 1em;
+      }
+      .links {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        text-align: center;
+
+        a {
+          margin: 0.25em;
+          border: dotted 1px transparent;
+          border-radius: 0.5em;
+          padding: 0.5em 1em;
+          font-size: 1.15em;
+          background-color: #c80000;
+          color: #fff;
+          text-decoration: none;
+        }
+      }
+    }
+  }
   .colaborators {
     display: flex;
     flex-direction: column;
@@ -143,6 +207,17 @@ const goal = 3;
     }
   }
   @media screen and (min-width: 636px) {
+    .colaborators-two {
+      flex-direction: row;
+      .profile {
+        margin-left: 11%;
+        width: 33%;
+        img {
+          width: 100%;
+          height: fit-content;
+        }
+      }
+    }
     .colaborators {
       flex-direction: row;
       .profile {
