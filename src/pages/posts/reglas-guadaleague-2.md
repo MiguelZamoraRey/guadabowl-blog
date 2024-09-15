@@ -12,7 +12,7 @@ tags: ['Bloodbowl', 'Reglas', 'GuadaLeague', 'Liga']
 
 ## 🏈 Reglamentos:
 
-Los reglamentos válidos serán el oficial con las faqs oficiales (de inmediata aplicación) normalmente podeís usar las publicaciones de la MezquitaBowl descargables [haciendo click aquí](https://nufflezone.com/noticias-blood-bowl/compendio-blood-bowl/)
+Los reglamentos válidos serán el oficial con las faqs oficiales (de inmediata aplicación) normalmente podeís usar las publicaciones de la MezquitaBowl descargables [haciendo click aquí](https://nufflezone.com/noticias-blood-bowl/compendio-blood-bowl/).
 
 El gestor que se usará para la liga será [TourPlay](https://tourplay.net/), al comenzar la liga se pasará a los participantes la invitación, mas información [aqui](https://tourplay.net/es/blood-bowl/guadaleague-1/news).
 
@@ -48,11 +48,35 @@ Se recomienda **encarecidamente** seguir un código de colores para peanas y/o g
 
 Este año el formato será distinto al anterior: Será **una ronda clasificatoria round robin** seguida por **playoffs eliminatorios**. Por lo que **se anunciarán todas las jornadas de golpe**, lo que os facilitará jugar más de una seguida y adelantar partidos.
 
-Las jornadas serán **cada dos semanas** aunque como dijimos antes podréis adelantar, se debe acordar con el rival donde quedar y disputar el partido, **el lugar oficial para jugar es Jupiter Guadalara**, si uno de los jugadores no puede jugar por cualquier motivo de fuerza mayor rogamos que se comunique cuanto antes para buscar una solución, velando por la disputa del maximo numero de partidos. No jugar una jornada sin un motivo justificable supone una concesión del partido. Recordamos a los participantes que, si bien esto es un juego y estamos para pasarlo bien, el otro jugador también quiere pasarlo bien y dedica su tiempo y su esfuerzo a estar ahí, se ruega puntualidad en los partidos.
+**El lugar oficial para jugar es Jupiter Guadalara**, si uno de los jugadores no puede jugar por cualquier motivo de fuerza mayor rogamos que se comunique cuanto antes para buscar una solución, velando por la disputa del maximo numero de partidos. No jugar una jornada sin un motivo justificable supone una concesión del partido. Recordamos a los participantes que, si bien esto es un juego y estamos para pasarlo bien, el otro jugador también quiere pasarlo bien y dedica su tiempo y su esfuerzo a estar ahí, se ruega puntualidad en los partidos.
 
 **TourPlay** da soporte para ir anotando TODA la información durante el partido y **recomendamos encarecidamente hacerlo con la aplicación abierta**. Cualquier error en los reportes debe ser notificicado a la organización. Los partidos han de estar reportados ANTES de la finalización de la jornada.
 
-La liga irá **desde el día 1 de Octubre hasta el 15 de Diciembre, momento en el que haremos parón hasta el 15 de Enero** y de ahi a **fin de liga que debe ser antes del 15 de Junio**.
+Os dejamos las fechas orientantivas, este año los partidos de fase regular se podrán adelantar siempre que los dos equipos estéis en la misma ronda así que usar las fechas solo a modo guía para ver como vais de tiempo:
+
+**Jornada clasificatoria 1**: del 30 de septiembre al 20 de octubre.
+
+**Jornada clasificatoria 2**: del 21 de octubre al 3 de Noviembre.
+
+**Jornada clasificatoria 3**: del 4 de noviembre al 24 de Noviembre.
+
+**Jornada clasificatoria 4**: del 25 de Noviembre al 8 de Diciembre.
+
+**Jornada clasificatoria 5**: del 9 de Diciembre al 5 de Enero (tiempo extra por navidades)
+
+**Jornada clasificatoria 6**: del 6 de Enero al 19 de Enero.
+
+**Jornada clasificatoria 7**: del 20 de Enero al 9 de Febrero.
+
+**Jornada clasificatoria 8**: del 10 de Febrero al 23 de Febrero.
+
+**Jornada clasificatoria 9**: del 24 de Febrero al 16 de Marzo.
+
+**Primera jornada de Playoff**: del 17 de Marzo al 30 de Marzo.
+
+**Segunda jornada de Playoff**: del 31 de Marzo al 20 de Abril.
+
+**Final Grandotez**: 21 de Abril en adelante.
 
 Al finalizar la liga se hara la entrega de premios.
 
@@ -80,15 +104,43 @@ Para la elección de los equipos se hará en el siguiente orden:
 
 ## 🏆 Premios:
 
-![Trofeos GuadaLeague 1](/assets/images/other/Trofeos.webp)
+A parte de los magnificos dados que os llevaís por inscribiros hay muchos premios:
 
-El ganador se llevará a casa la **COPA DE CAMPEÓN DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa. Y su equipo para la tercera Guadalegue lo eligirá el comite.
+![Dados personalizados de regalo](/assets/images/Guadaleague2/Guadabowl2_Dices.webp)
 
-El equipo que tenga el jugador mas asesino, que no sea el ganador de la liga, se llevará a casa la **COPA ASESINO DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa.
+## 🥇 Primer clasificado de Grandotez:
 
-El equipo que tenga el jugador que haya marcado mas touchdown, que no sea el ganador de la liga, se llevar'a a casa la **COPA PICHICHI DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa.
+Un **equipo** para el ganador de la final, el cual **tendrá que usar en la siguiente edición**.
 
-El que quede en la parte más baja de la liga habiendo jugado TODOS los partidos se llevará a casa la **CUCHARA DE MADERA DE LA 2ª GuadaLeague**, una miniatura de un trofeo de 10cm impresa. Y la inscripción a la tercera GuadaLegue será gratuita (En el caso de no realizarse no se podrá dar este premio)
+Un **set de dados custom del campeón de la liga**.
+
+## 🥈 Segundo clasificado de Grandotez:
+
+Un **set de dados custom del subcampeón de la liga**.
+
+## 🏅 Primer clasificado de Orkoz:
+
+Un **set de dados custom del gandor de Orkoz**.
+
+## 🎖️ Primer clasificado de Goblinz:
+
+Un **set de dados custom del gandor de Goblinz**.
+
+## 🥄 Primer clasificado de Snotlingz:
+
+Un **set de dados custom del gandor de Snotlingz** y una magnífica **cuchara de palo**.
+
+## 🤫 Ganador de más objetivos secretos:
+
+Regalo **secreto**.
+
+## 🖌️ Ganador del equipo más original:
+
+El equipo pintado más original se llevará una sorpresita.
+
+## 🍀 Sorteos:
+
+Tendremos sorteos para aquellos que no os llevéis nada.
 
 ## 🤝 Normas de conducta generales:
 
