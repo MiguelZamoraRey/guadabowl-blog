@@ -14,8 +14,6 @@ Durante las celebraciones de los **Red Falcons** por el título de la Guadaleagu
 
 Tal era el grado de decadencia que los jugadores no se percataron de la enfermedad de **Otto Von Drak**, fue durante la ceremonia por la boda de su hija con un recién llegado Vlad Von Carstein cuando algunos empezaron a darse cuenta de que algo andaba mal, pero ya fue tarde para el equipo. Durante dos días los jugadores fueron cazados por el castillo Drakenhof, todos salvo **Enathion** y **Weiser**, que como nobles de la casa Von Drak recibieron el beso de sangre y les hicieron alimentarse de su compañero **Calafalas**, el último de ellos en morir allí.
 
-"_Ante todo somos un equipo inclusivo, aceptamos zombies de todas las razas_" Declara el Capitán del equipo, el hombre lobo **Peludo Felpudo**.
-
 ![Escudo del Sylvania senators](/assets/images/se-une-al-plantel/SylvaniaSenatorsShield.webp)
 
 Con el nuevo gobierno de Vlad, los Von Drak perdieron sus pertenencias y haciendas, como **Enathion** y **Weiser** nunca tuvieron nada salvo el BloodBowl, convencieron a otros vampiros de la descastada corte Von Drak para unirse a ellos y fundar un nuevo equipo, los **Sylvania Senators**.
