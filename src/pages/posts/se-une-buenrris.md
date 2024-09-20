@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Ciudad de Halloween se une al plantel'
 pubDate: 2024-09-16
 description: 'Agarraos los machos'
-author: 'Ainhur'
+author: 'Buenrris'
 image:
   url: '/assets/images/se-une-al-plantel/Ciudad-de-halloween.webp'
   alt: 'Foto del equipo ciudad de halloween'
