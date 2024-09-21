@@ -12,15 +12,6 @@ body {
   color: #fff;
   background-color: #242424cc;
 }
-/*
-  @font-face {
-		font-family: "Nuffle", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-      src:url("/fonts/Nuffle.woff")format("woff"),
-        url("/fonts/Nuffle.woff2")format("woff2"),
-        url("/fonts/Nuffle.ttf")format("truetype"),
-        url("/fonts/Nuffle.svg")format("svg");
-	}
-  */
 
 @font-face {
   font-family: 'Nuffle';
@@ -47,6 +38,7 @@ h1 {
 .hamburger-main {
   display: flex;
 }
+
 .hamburger {
   padding: 1.5em;
   padding-right: 20px;
