@@ -1,7 +1,6 @@
 html {
-  background-image: url('/assets/images/other/grass-backgroung-scaled.webp');
-  /* background-color: #19336c;*/
-  background-size: cover;
+  background-image: url('/assets/images/bg.webp');
+  background-repeat: repeat;
   font-family: sans-serif;
 }
 
