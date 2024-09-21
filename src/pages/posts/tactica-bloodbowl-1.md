@@ -38,8 +38,7 @@ En conclusión, **la elección entre recibir o patear no es tan simple como pare
 
 Espero que esto te ayude a comprender mejor las posibles estrategias y no opciones desde el comienzo del partido. **La decisión en el lanzamiento inicial puede marcar la diferencia en ganar partidos que de otro modo podrías haber perdido**.
 
-**Este artículo es una traducción y adaptación. Fuente original: [bbtactics.com](http://bbtactics.com), artículo de 2009.**
-**Traducción y adaptación: Jdiegar**
+**Este artículo es una traducción y adaptación realizada por Jdiegar. Fuente original: [bbtactics.com](http://bbtactics.com), artículo de 2009.**
 
 <style>
    table {
