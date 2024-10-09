@@ -5,7 +5,7 @@ pubDate: 2024-10-06
 description: 'Continuamos aprendiendo de Jorge'
 author: 'Jdiegar'
 image:
-  url: '/assets/images/other/TacticaBB1.webp'
+  url: '/assets/images/other/TacticaBB2.webp'
   alt: 'Un orko patea el balón.'
 tags: ['Bloodbowl', 'Táctica', 'Adaptación']
 ---
