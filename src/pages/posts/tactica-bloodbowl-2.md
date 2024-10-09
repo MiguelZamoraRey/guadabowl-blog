@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Táctica básica. El 2-1 Grind.'
+title: 'Táctica básica 2. El 2-1 Grind.'
 pubDate: 2024-10-06
 description: 'Continuamos aprendiendo de Jorge'
 author: 'Jdiegar'

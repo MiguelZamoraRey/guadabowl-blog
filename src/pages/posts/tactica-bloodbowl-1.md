@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Táctica básica. Hoy, macrojuego.'
+title: 'Táctica básica 1. Hoy, macrojuego.'
 pubDate: 2024-09-21
 description: '¿Empiezo pateando o recibiendo?'
 author: 'Jdiegar'
