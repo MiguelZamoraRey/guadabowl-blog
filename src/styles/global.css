@@ -33,6 +33,12 @@ h1 {
   font-family: 'Nuffle', sans-serif;
 }
 
+h2 {
+  /*margin: 1rem 0;*/
+  font-size: 2rem;
+  font-family: 'Nuffle', sans-serif;
+}
+
 /* estilos de la barra de navegación*/
 
 .hamburger-main {
