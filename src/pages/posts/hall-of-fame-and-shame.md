@@ -7,7 +7,7 @@ author: 'Gafiiis'
 image:
   url: '/assets/images/hall-of-shame/portada.webp'
   alt: 'GuadaLeague 1'
-tags: ['Bloodbowl', 'Crónica', 'GuadaLeague', 'Liga', 'Humor']
+tags: ['Bloodbowl', 'Crónica', 'GuadaLeague', 'Liga', 'Humor', 'Equipos']
 ---
 
 Tras ya las primeras inscripciones de la Guadaleague II, y con los equipos mostrando ya sus futuras estrellas para la siguiente temporada, que menos que pararnos un momento a recordar y rememorar a nuestros pioneros.. esos jugadores tan queridos por nosotros y odiados por sus rivales que han hecho las delicias de esta primera temporada..

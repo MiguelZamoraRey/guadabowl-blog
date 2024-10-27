@@ -7,7 +7,7 @@ author: 'Ainhur'
 image:
   url: '/assets/images/other/hijos-de-dagon.webp'
   alt: 'Foto del equipo Hijos de Dagón'
-tags: ['Bloodbowl', 'Guadaleague', 'Chaos', 'Renegades']
+tags: ['Bloodbowl', 'Guadaleague', 'Chaos', 'Renegades', 'Equipos']
 ---
 
 Este equipo se ha ofrecido para una serie de artículos en los que iremos repasando a los diferentes participantes de la liga, si quieres ver el tuyo por aquí no dudes en mandárnoslo 😉

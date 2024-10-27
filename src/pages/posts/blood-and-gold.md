@@ -7,7 +7,7 @@ author: 'Ainhur'
 image:
   url: '/assets/images/other/BloodAndGold5.webp'
   alt: 'Foto del equipo blood and gold'
-tags: ['Bloodbowl', 'Guadaleague', 'Shambling', 'Undead']
+tags: ['Bloodbowl', 'Guadaleague', 'Shambling', 'Undead', 'Equipos']
 ---
 
 Este equipo se ha ofrecido para una serie de artículos en los que iremos repasando a los diferentes participantes de la liga, si quieres ver el tuyo por aquí no dudes en mandárnoslo 😉

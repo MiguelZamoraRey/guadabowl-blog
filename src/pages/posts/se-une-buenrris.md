@@ -7,7 +7,15 @@ author: 'Buenrris'
 image:
   url: '/assets/images/se-une-al-plantel/Ciudad-de-halloween.webp'
   alt: 'Foto del equipo ciudad de halloween'
-tags: ['Bloodbowl', 'Guadaleague', 'Necromantic', 'Horror', 'Nigrománticos']
+tags:
+  [
+    'Bloodbowl',
+    'Guadaleague',
+    'Necromantic',
+    'Horror',
+    'Nigrománticos',
+    'Equipos',
+  ]
 ---
 
 El olor a carne podrida, el aullido de los lobos y el graznido de los cuervos anticipa su llegada. Ellos son la **U.D. Ciudad de Halloween**. Recién llegados a la Guadaleague, vienen dispuestos a ser la pesadilla de sus rivales.

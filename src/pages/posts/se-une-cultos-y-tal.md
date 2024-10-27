@@ -7,7 +7,7 @@ author: 'Ainhur'
 image:
   url: '/assets/images/se-une-al-plantel/cultosytal.webp'
   alt: 'Foto del equipo ciudad de Cultos y tal'
-tags: ['Bloodbowl', 'Guadaleague', 'Chaos', 'Chosen', 'Kaos']
+tags: ['Bloodbowl', 'Guadaleague', 'Chaos', 'Chosen', 'Kaos', 'Equipos']
 ---
 
 Sus miradas son tiernas, su lana esponjosa, pero no te fies de las apariencias estas ovejitas han venido a destrozarte el equipo.

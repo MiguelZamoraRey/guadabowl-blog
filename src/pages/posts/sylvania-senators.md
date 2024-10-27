@@ -7,7 +7,7 @@ author: 'Fran'
 image:
   url: '/assets/images/se-une-al-plantel/SylvaniaSenatorsTeam.webp'
   alt: 'Foto del equipo ciudad de halloween'
-tags: ['Bloodbowl', 'Guadaleague', 'Vampire', 'Vampiros']
+tags: ['Bloodbowl', 'Guadaleague', 'Vampire', 'Vampiros', 'Equipos']
 ---
 
 Durante las celebraciones de los **Red Falcons** por el título de la Guadaleague los jugadores pasaban de una ciudad a otra, cada vez más hacia el este del viejo mundo. Como invitados de honor del Conde **Otto Von Drak** de Sylvania, fan acérrimo del BloodBowl, cayeron en una vorágine de fiestas, orgias y en un estado de embriaguez continuo. Durante algunas de aquellas fiestas, **Enathion** y **Weiser** llegaron a contraer matrimonio con varias sobrinas del Conde.

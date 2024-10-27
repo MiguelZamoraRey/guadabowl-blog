@@ -7,7 +7,7 @@ author: 'Ainhur'
 image:
   url: '/assets/images/damas-del-lago/damas-del-lago1.webp'
   alt: 'Foto del equipo de amazonas'
-tags: ['Bloodbowl', 'Amazons', 'Amazonas', 'Guadaleague']
+tags: ['Bloodbowl', 'Amazons', 'Amazonas', 'Guadaleague', 'Equipos']
 ---
 
 Este equipo se ha ofrecido para una serie de artículos en los que iremos repasando a los diferentes participantes de la liga, si quieres ver el tuyo por aquí no dudes en mandárnoslo 😉
