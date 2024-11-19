@@ -5,7 +5,7 @@ pubDate: 2024-07-28
 description: 'Reglas de la segunda GuadaLeague'
 author: 'Ainhur'
 image:
-  url: '/assets/images/Guadaleague2/Guadabowl2_Color.webp'
+  url: '/assets/images/Guadaleague2/alvorkfañezdeminaya-1.webp'
   alt: 'GuadaLeague 2'
 tags: ['Bloodbowl', 'Reglas', 'GuadaLeague', 'Liga']
 ---
