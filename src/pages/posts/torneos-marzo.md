@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Próximos torneos - Febrero'
+title: 'Próximos torneos - Marzo'
 pubDate: 2025-02-28
 description: 'Un resumen de todos los próximos torneos'
 author: 'Jdiegar'
