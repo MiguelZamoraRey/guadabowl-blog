@@ -26,6 +26,8 @@ Además, nuestra enhorabuena a los **Pizadores** de **Mario**, que, para ser su 
 
 **Queremos daros las gracias a todos los participantes** y os dejaremos fotos y más contenido tras la entrega de premios.
 
+Y os invitamos a ir viendo en tourplay toda la información de la liga como estadísticas, el cuadro de honor y ¡mucha info más!, que si nos da tiempo tambien traeremos un artículo analizandola.
+
 A continuación, os remito una crónica escrita por Fran con la crónica de la final:
 
 # Crónica de la final por Fran
